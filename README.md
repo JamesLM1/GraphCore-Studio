@@ -28,6 +28,9 @@
 
 *(Aquí puedes subir las imágenes que me mostraste a la carpeta del repo y enlazarlas)*
 ![Dashboard Principal](ruta/a/tu/imagen.png)
+<img width="1281" height="828" alt="interfasEjm" src="https://github.com/user-attachments/assets/58427725-8a0b-4e27-8eeb-807ee59fed13" />
+<img width="<img width="593" height="348" alt="imageLogcarga" src="https://github.com/user-attachments/assets/53253d7f-bd67-4277-acda-d1053706207d" />
+1276" height="826" alt="interfasGraphCore" src="https://github.com/user-attachments/assets/327826be-d15b-4ed7-9da9-171b8b2c6aa1" />
 
 ## 🚀 Instalación y Uso
 
