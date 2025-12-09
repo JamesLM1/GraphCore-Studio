@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/JamesLM1/GraphCore-Studio">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=575FCF&center=true&vCenter=true&width=600&lines=GraphCore+Studio;Sistema+Integral+de+Análisis+de+Grafos;Dijkstra+%7C+Prim+%7C+BFS+%7C+DFS;Desarrollado+por+James+Lucas+Moreto" alt="Typing SVG" />
+  </a>
+</div>
+
 # 🚀 GraphCore Studio
 
 ![Version](https://img.shields.io/badge/version-3.0_Pro_Edition-blue)
